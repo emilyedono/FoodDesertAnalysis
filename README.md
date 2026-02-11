@@ -1,6 +1,6 @@
-# Food Desert Models
+# Food Desert Statistical Analyses
 
-This repository contains two related projects that analyzed food desert data.
+This repository contains two related projects that analyzed food desert data to answer research questions.
 
 ### 01: Food Deserts and Diabetes Prevalence
 Methodology: Linear Regression
