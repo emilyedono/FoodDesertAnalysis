@@ -17,7 +17,12 @@ Methodology: Exploratory Factor Analysis, Logistic Regression
 Key question:
 There is no one way to define a food desert based on empirical measures. Various combinations of thresholds of distance to supermarkets, income level, and vehicle access are available as potential food desert indicators. **What types of areas typically qualify as food deserts using these indicators. Are the trends consistent for all food desert indicators?**
 
-Key Finding: The different methods of defining a food desert are capturing different types of areas. 
+Key Finding: The different methods of defining a food desert are capturing different types of areas. This has implications for food desert research studies and policymakers.
+
+<img width="242" height="252" alt="image" src="https://github.com/user-attachments/assets/f4bf3cf9-63c6-4bef-923e-517a98609b9c" />
+<br>
+Venn Diagram of Food Desert Indicators
+
 
 ### Data Source
 Economic Research Service (ERS), U.S. Department of Agriculture (USDA). Food Access Research Atlas, https://www.ers.usda.gov/data-products/food-access-research-atlas/
